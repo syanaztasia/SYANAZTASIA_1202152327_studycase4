@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SYANAZTASIA_1202152327_studycase4</string>
+    <string-array name="namaMhs">
+        <item>Syanaz</item>
+        <item>Raras</item>
+        <item>Intan</item>
+        <item>Bayu</item>
+        <item>Kor</item>
+        <item>Kudit</item>
+        <item>Nia</item>
+        <item>Damar</item>
+        <item>Waskito</item>
+        <item>Dito</item>
+        <item>Chandra</item>
+        <item>Riza</item>
+        <item>Aan</item>
+    </string-array>
+</resources>
